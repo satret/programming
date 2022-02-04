@@ -1,14 +1,14 @@
 package com.company.Character;
 import com.company.interfaces.ClassInterface;
 
-public class Herring implements ClassInterface {
+public class Neznayka implements ClassInterface {
     private String name;
-    public Herring(){
-        name = "Селёдочка";
+    public Neznayka(){
+        name = "Незнайка";
         joinMain();
     }
     private void joinMain() {
-        System.out.println("Исследователь '" + name + "' присоединилась к истории.");
+        System.out.println("Незнайка '" + name + "' присоединился к истории.");
     }
     @Override
     public String getName() {
@@ -16,11 +16,11 @@ public class Herring implements ClassInterface {
     }
     @Override
     public boolean equals(Object obj) {
-        return this.name.equals(((Herring)obj).name);
+        return this.name.equals(((Neznayka)obj).name);
     }
     @Override
     public String toString() {
-        return "Herring{" +
+        return "Neznayka{" +
                 "name='" + name + '\'' +
                 '}';
     }
@@ -28,4 +28,5 @@ public class Herring implements ClassInterface {
     public int hashCode() {
         return name.hashCode();
     }
+
 }

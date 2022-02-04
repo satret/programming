@@ -1,5 +1,5 @@
 package com.company.enums;
 
-public enum Crystalsize {
-    small, medium, large
+public enum CrystalSize {
+    SMALL, MEDIUM, BIG
 }
