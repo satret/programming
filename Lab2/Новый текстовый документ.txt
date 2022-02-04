@@ -1,0 +1,19 @@
+MOVES
+DoubleTeam+
+DragonRage+
+DreamEater+
+Facade
+IceBeam+
+IcePunch+
+Recover+
+Rest+-
+RockSlide+-
+ShadowBall+
+Swagger+
+
+POKEMONS
+Drilbur
+Excadrill
+Grovyle
+Sceptile
+Treecko Xurkitree

@@ -1,0 +1,88 @@
+Xurkitree ВМК из команды желтых вступает в бой!
+Drilbur МФТИ из команды белых вступает в бой!
+Xurkitree ВМК использует ShadowBall.
+Drilbur МФТИ теряет 4 здоровья.
+Drilbur МФТИ уменьшает специальную атаку.
+
+Drilbur МФТИ промахивается
+
+Xurkitree ВМК использует RockSlide.
+Drilbur МФТИ теряет 2 здоровья.
+
+Drilbur МФТИ использует Swagger.
+Xurkitree ВМК увеличивает атаку.
+
+Xurkitree ВМК использует ShadowBall.
+Drilbur МФТИ теряет 5 здоровья.
+Drilbur МФТИ уменьшает специальную атаку.
+
+Drilbur МФТИ использует Swagger.
+Xurkitree ВМК увеличивает атаку.
+
+Xurkitree ВМК растерянно попадает по себе.
+Xurkitree ВМК теряет 4 здоровья.
+
+Drilbur МФТИ промахивается
+
+Xurkitree ВМК использует ShadowBall.
+Drilbur МФТИ теряет 6 здоровья.
+Drilbur МФТИ теряет сознание.
+Treecko СППО из команды белых вступает в бой!
+Treecko СППО промахивается
+
+Xurkitree ВМК использует RockSlide.
+Treecko СППО теряет 6 здоровья.
+
+Treecko СППО использует Facade.
+Xurkitree ВМК теряет 5 здоровья.
+
+Xurkitree ВМК использует RockSlide.
+Treecko СППО теряет 6 здоровья.
+
+Treecko СППО использует Facade.
+Xurkitree ВМК теряет 4 здоровья.
+Xurkitree ВМК теряет сознание.
+Excadrill КТ из команды желтых вступает в бой!
+Excadrill КТ использует Swagger.
+Treecko СППО увеличивает атаку.
+
+Treecko СППО использует Facade.
+Excadrill КТ теряет 2 здоровья.
+
+Excadrill КТ использует Swagger.
+Treecko СППО увеличивает атаку.
+
+Treecko СППО растерянно попадает по себе.
+Treecko СППО теряет 5 здоровья.
+Treecko СППО теряет сознание.
+Sceptile ВШЭ из команды белых вступает в бой!
+Sceptile ВШЭ использует DragonRage.
+Excadrill КТ теряет 2 здоровья.
+Sceptile ВШЭ увеличивает атаку.
+
+Excadrill КТ промахивается
+
+Sceptile ВШЭ использует Facade.
+Excadrill КТ теряет 4 здоровья.
+
+Excadrill КТ промахивается
+
+Sceptile ВШЭ использует DragonRage.
+Excadrill КТ теряет 1 здоровья.
+Sceptile ВШЭ увеличивает атаку.
+
+Excadrill КТ использует DreamEater.
+Sceptile ВШЭ теряет 6 здоровья.
+Excadrill КТ теряет 50 здоровья.
+Excadrill КТ теряет сознание.
+Grovyle ИСИТ из команды желтых вступает в бой!
+Sceptile ВШЭ использует Facade.
+Grovyle ИСИТ теряет 8 здоровья.
+
+Grovyle ИСИТ промахивается
+
+Sceptile ВШЭ использует Facade.
+Grovyle ИСИТ теряет 8 здоровья.
+Grovyle ИСИТ теряет сознание.
+В команде желтых не осталось покемонов.
+Команда белых побеждает в этом бою!
